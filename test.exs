@@ -1,0 +1,2 @@
+import Aoc
+hello()
